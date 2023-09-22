@@ -1,0 +1,27 @@
+    .heading{
+    margin-left: 40%;
+    };
+    table {
+      border-collapse: collapse;
+      width: 80%;
+      margin: auto;
+    };
+    th, td {
+      border: 1px solid black;
+      padding: 8px;
+      text-align: left;
+      text-align: center
+    };
+    .red {
+      background-color: red;
+    };
+    .yellow {
+      background-color: yellow;
+    };
+    .green {
+      background-color: green;
+    };
+    .count{
+        background-color: aquamarine;
+        text-align: center;
+    }
